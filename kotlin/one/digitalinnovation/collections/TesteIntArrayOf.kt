@@ -8,7 +8,7 @@ fun main(){
     }
 
     println("-----------------")
-    values.sort()
+    values.sort() //Ordenando o array
     values.forEach {
         println(it)
     }
